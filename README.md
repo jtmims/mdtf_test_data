@@ -40,6 +40,7 @@ Optional arguments:
   -h, --help            show this help message and exit
   --startyear           start year of data [default is 1975]
   --nyears              number of years of data to generate [default is 10]
+  --freq                frequency of data [default is ["1hr", "3hr", "day", "mon"]]
   --dlat                latitude resolution in degrees [default is 20]
   --dlon                longitude resolution in degrees [default is 20]
   --unittest............flag to run unit tests in mdtf_test_data/tests
